@@ -1,7 +1,9 @@
 # OS_sem2_dz
 
 #!/bin/bash
+
 #Проверяет, равны ли 2 числа
+
 val1=$1
 val2=$2
 if [ $val1 -eq $val2 ]
